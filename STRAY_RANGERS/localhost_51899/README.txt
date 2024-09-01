@@ -1,0 +1,2 @@
+To run application, open file using Visual Studio 2022. Once the file has loaded, click on the IIS Express button(Google Chrome) button on the top of the screen. 
+Then select the "Run without debugging" option
